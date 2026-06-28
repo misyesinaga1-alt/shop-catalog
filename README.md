@@ -136,7 +136,7 @@ Tambahkan link Expo Snack setelah project berhasil diunggah.
 
 Contoh:
 
-[https://snack.expo.dev/](https://snack.expo.dev/@misyesinaga/79d35d)
+(https://snack.expo.dev/@misyesinaga/79d35d)
 
 ---
 
